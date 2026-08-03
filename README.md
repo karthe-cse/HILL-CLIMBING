@@ -78,6 +78,11 @@ SimpleHillClimbing()
 <h2>Sample Input and Output</h2>
 <h2>Sample String:</h2> Artificial Intelligence
 <h2>Output:</h2>
+
+
+<img width="382" height="401" alt="image" src="https://github.com/user-attachments/assets/62ce6ea8-eb5f-4f2b-90fe-21540ed2cdeb" />
+
+
 Score: 643  Solution :  8RzF:oG ]%;CPORRMe!zGvk<br>
 Score: 609  Solution :  8RzF:oG ]%;CPqRRMe!zGvk<br>
 Score: 604  Solution :  8RzF:oG ]%;CPqRRMe!zGqk<br>
